@@ -1,4 +1,4 @@
-# chat_gpt
+# CatalogApp
 
 A new Flutter project.
 
